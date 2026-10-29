@@ -1,0 +1,13 @@
+# Raw frame data directory (350+ MB)
+data/
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# OS metadata
+.DS_Store
+Thumbs.db
